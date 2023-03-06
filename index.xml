@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinicius Moraes</title>
+    <link>https://wolper.github.io/</link>
+    <description>Recent content on Vinicius Moraes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 13:40:22 -0300</lastBuildDate><atom:link href="https://wolper.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://wolper.github.io/posts/mypost/</link>
+      <pubDate>Mon, 06 Mar 2023 13:40:22 -0300</pubDate>
+      
+      <guid>https://wolper.github.io/posts/mypost/</guid>
+      <description>My Post This is some content. Let&amp;rsquo;s go!</description>
+    </item>
+    
+  </channel>
+</rss>
